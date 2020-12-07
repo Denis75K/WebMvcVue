@@ -21831,6 +21831,7 @@
     <Content Include="client-app\src\components\WeatherForecast.vue" />
     <Content Include="client-app\src\components\OptionSelect.vue" />
     <Content Include="client-app\src\components\MyComponent.vue" />
+    <Content Include="client-app\src\components\NavMenu.vue" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
